@@ -66,6 +66,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiorisantosquispe&repo=flutter_test_framework&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/fabiorisantosquispe/flutter_test_framework])
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiorisantosquispe&repo=maestro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([https://github.com/fabiorisantosquispe/maestro])
+
 <h2>Minhas Contribuições:</h2>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiorisantosquispe&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabiorisantosquispe/dio-lab-open-source)
